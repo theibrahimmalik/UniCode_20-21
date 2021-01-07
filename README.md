@@ -10,6 +10,9 @@ Practice makes perfect, and Showcode challenges are the perfect opportunity to l
 ## :moneybag: Build your coder-first profile to share
 You can build up a profile of achievements, badges and certificates. Share your profile and show companies your potential based on coding ability, rather than qualifications or experience
 
+## Sponsors: 
+• NHS Digital • experian • VISA • CISCO • Debut • Goldman Sachs • Microsoft • mthree • Nationwide • next • sage • citrix 
+
 ## :clipboard:  How it works?
 • 84 University Teams 
 • Spread over 6 leagues 
