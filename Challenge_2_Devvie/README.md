@@ -22,6 +22,7 @@ A proposition: I task you with writing a function that returns the number of com
 
 
 `"RF" must return 3 - I must RRF in order to return to 0,0`
+
 `"LFRFRFR" must return 1 - I must F to return to 0,0`
 
 
