@@ -27,7 +27,8 @@ Remember there may be other @ symbols floating around in all the messages, for a
 
 
 
-TEST CASES 
+
+TEST CASES: 
 
 Public | Can successfully identify the user in a single recipient message.
 
