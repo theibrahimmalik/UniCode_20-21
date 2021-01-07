@@ -2,7 +2,7 @@
 
 https://www.showcode.io/
 
-Contributions are welcomed 
+Contributions are welcomed - just get in touch 
 
 
 📋 How it works?
