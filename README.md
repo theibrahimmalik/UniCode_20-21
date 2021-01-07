@@ -5,10 +5,12 @@ Contributions are welcomed - just get in touch
 [UniCode Website:](https://www.showcode.io/unicode/) https://www.showcode.io/
 
 ## :smile: :chart_with_upwards_trend: Learn and improve through competing
-Practice makes perfect, and Showcode challenges are the perfect opportunity to learn by doing. If a certain challenge doesn’t go well, you can go back and practice afterwards.
+Practice makes perfect, and Showcode challenges are the perfect opportunity to learn by doing. 
+If a certain challenge doesn’t go well, you can go back and practice afterwards.
 
 ## :moneybag: Build your coder-first profile to share
-You can build up a profile of achievements, badges and certificates. Share your profile and show companies your potential based on coding ability, rather than qualifications or experience
+You can build up a profile of achievements, badges and certificates. 
+Share your profile and show companies your potential based on coding ability, rather than qualifications or experience
 
 ## Sponsors: 
 • NHS Digital • experian • VISA • CISCO • Debut • Goldman Sachs • Microsoft • mthree • Nationwide • next • sage • citrix 
