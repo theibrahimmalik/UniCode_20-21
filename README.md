@@ -25,9 +25,9 @@ The top 10 coders from each of the 5 Universities in each league will battle it 
 :pencil: | Challange Name | Dates Open          | Completed?         | Score | Completion Time
 ---------|----------------|---------------------|--------------------|-------|------------------
 1        | Ready Player X | Nov 23rd - Dec 7th  | :white_check_mark: |       | 
-2        | Devvie         | Dec 7th - Dec 21st  |                    |       | 
+2        | Devvie         | Dec 7th - Dec 21st  | :white_check_mark: |       | 
 3        | Snowcode       | Dec 21st - Jan 4th  | :white_check_mark: |       | 
-4        | Attack Cleanup | Jan 4th - Jan 18th  |                    |       | 
+4        | Attack Cleanup | Jan 4th - Jan 18th  | :white_check_mark: |       | 
 5        | TBC            | Jan 18th - Feb 1st  |                    |       | 
 6        | TBC            | Feb 1st - Feb 15th  |                    |       | 
 7        | TBC            | Feb 15th - Mar 1st  |                    |       | 
