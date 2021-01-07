@@ -1,7 +1,7 @@
 # showcode20-21
 
 
-contributions are welcomed 
+Contributions are welcomed 
 
 
 📋 How it works?
