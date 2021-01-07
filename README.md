@@ -21,6 +21,7 @@ Each coder can contribute points towards their University by completing a challe
 ## :trophy: The Grande Finale
 The top 10 coders from each of the 5 Universities in each league will battle it out in the Unicode 20/21 Grand Finale to claim top spot. Don’t worry, you can still qualify for the individual finale if your team doesn’t make it
 
+## :clipboard:  Progress:
 
 :pencil: | Challange Name | Dates Open          | Completed?         | Score | Completion Time
 ---------|----------------|---------------------|--------------------|-------|------------------
