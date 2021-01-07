@@ -1,9 +1,14 @@
 # UniCode_20-21
 
-[UniCode Website:](https://www.showcode.io/unicode/) https://www.showcode.io/
-
 Contributions are welcomed - just get in touch 
 
+[UniCode Website:](https://www.showcode.io/unicode/) https://www.showcode.io/
+
+## :progress: Learn and improve through competing
+Practice makes perfect, and Showcode challenges are the perfect opportunity to learn by doing. If a certain challenge doesn’t go well, you can go back and practice afterwards.
+
+## :money: Build your coder-first profile to share
+You can build up a profile of achievements, badges and certificates. Share your profile and show companies your potential based on coding ability, rather than qualifications or experience
 
 ## :clipboard:  How it works?
 • 84 University Teams 
@@ -20,6 +25,8 @@ Each coder can contribute points towards their University by completing a challe
 
 ## :trophy: The Grande Finale
 The top 10 coders from each of the 5 Universities in each league will battle it out in the Unicode 20/21 Grand Finale to claim top spot. Don’t worry, you can still qualify for the individual finale if your team doesn’t make it
+
+
 
 ## :clipboard:  Progress:
 
