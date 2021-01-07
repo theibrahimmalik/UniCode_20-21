@@ -1,6 +1,6 @@
 # UniCode_20-21
 
-Contributions are welcomed - just get in touch 
+*Contributions are welcomed - just get in touch*
 
 [UniCode Website:](https://www.showcode.io/unicode/) https://www.showcode.io/
 
