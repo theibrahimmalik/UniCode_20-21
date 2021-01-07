@@ -1,6 +1,5 @@
 
 
-
 It's 2045. Halliday is gone. Every living soul in the OASIS is looking for the Easter egg - the key to Halliday's fortune.
 
 We've found something, a few snippets of deciphered text. Is this enough for you to break his cipher?
