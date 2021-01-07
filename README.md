@@ -4,7 +4,7 @@ Contributions are welcomed - just get in touch
 
 [UniCode Website:](https://www.showcode.io/unicode/) https://www.showcode.io/
 
-## :smile: Learn and improve through competing
+## :smile: :chart_with_upwards_trend: Learn and improve through competing
 Practice makes perfect, and Showcode challenges are the perfect opportunity to learn by doing. If a certain challenge doesn’t go well, you can go back and practice afterwards.
 
 ## :moneybag: Build your coder-first profile to share
@@ -28,7 +28,7 @@ The top 10 coders from each of the 5 Universities in each league will battle it 
 
 
 
-## :clipboard:  Progress:
+## :clipboard: :chart_with_upwards_trend:  Progress:
 
 :pencil: | Challange Name | Dates Open          | Completed?         | Score | Completion Time
 ---------|----------------|---------------------|--------------------|-------|------------------
