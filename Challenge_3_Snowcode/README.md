@@ -1,3 +1,5 @@
+# Challenge Details: 
+
 My elves are having trouble keeping track of all the naughty and nice people on social media. I'm told you coder types can make their lives easier!
 
 
