@@ -5,7 +5,7 @@ https://www.showcode.io/
 Contributions are welcomed - just get in touch 
 
 
-📋 How it works?
+## :clipboard:  How it works?
 • 84 University Teams • Spread over 6 leagues • Battle head-to-head for points • Win awesome prizes • Get noticed by top brands
 
 🚗 How Long is it?
