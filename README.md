@@ -4,10 +4,10 @@ Contributions are welcomed - just get in touch
 
 [UniCode Website:](https://www.showcode.io/unicode/) https://www.showcode.io/
 
-## :progress: Learn and improve through competing
+## :smile: Learn and improve through competing
 Practice makes perfect, and Showcode challenges are the perfect opportunity to learn by doing. If a certain challenge doesn’t go well, you can go back and practice afterwards.
 
-## :money: Build your coder-first profile to share
+## :moneybag: Build your coder-first profile to share
 You can build up a profile of achievements, badges and certificates. Share your profile and show companies your potential based on coding ability, rather than qualifications or experience
 
 ## :clipboard:  How it works?
