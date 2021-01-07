@@ -5,12 +5,12 @@ Contributions are welcomed - just get in touch
 [UniCode Website:](https://www.showcode.io/unicode/) https://www.showcode.io/
 
 ## :smile: :chart_with_upwards_trend: Learn and improve through competing
-Practice makes perfect, and Showcode challenges are the perfect opportunity to learn by doing. 
-If a certain challenge doesn’t go well, you can go back and practice afterwards.
+• Practice makes perfect, and Showcode challenges are the perfect opportunity to learn by doing. 
+• If a certain challenge doesn’t go well, you can go back and practice afterwards.
 
 ## :moneybag: Build your coder-first profile to share
-You can build up a profile of achievements, badges and certificates. 
-Share your profile and show companies your potential based on coding ability, rather than qualifications or experience
+• You can build up a profile of achievements, badges and certificates. 
+• Share your profile and show companies your potential based on coding ability, rather than qualifications or experience
 
 ## Sponsors: 
 • NHS Digital • experian • VISA • CISCO • Debut • Goldman Sachs • Microsoft • mthree • Nationwide • next • sage • citrix 
@@ -23,13 +23,16 @@ Share your profile and show companies your potential based on coding ability, ra
 • Get noticed by top brands
 
 ## :red_car:  How Long is it?
-There is a total of 13 challenges to complete,  each one taking no more than an hour to complete. A challenge is open for 2 weeks and only your first submission will count for scoring.
+• There is a total of 13 challenges to complete,  each one taking no more than an hour to complete. 
+• A challenge is open for 2 weeks and only your first submission will count for scoring.
 
 ## :rocket:  How you win?
-Each coder can contribute points towards their University by completing a challenge. The team with the highest points  (taken from the top 10 individual scores) will win the fixture and obtain 3 points.
+• Each coder can contribute points towards their University by completing a challenge. 
+• The team with the highest points  (taken from the top 10 individual scores) will win the fixture and obtain 3 points.
 
 ## :trophy: The Grande Finale
-The top 10 coders from each of the 5 Universities in each league will battle it out in the Unicode 20/21 Grand Finale to claim top spot. Don’t worry, you can still qualify for the individual finale if your team doesn’t make it
+• The top 10 coders from each of the 5 Universities in each league will battle it out in the Unicode 20/21 Grand Finale to claim top spot. 
+• Don’t worry, you can still qualify for the individual finale if your team doesn’t make it
 
 
 
