@@ -28,7 +28,7 @@ A proposition: I task you with writing a function that returns the number of com
 
 An unhandled command: Sometimes my controllers provide me with unhandled parameters, take care to ignore any unwanted noise in the commands.
 
-<ins>Test Cases (Challenge 2):</ins>
+<ins>TEST CASES:</ins>
 
 Public | Check that RF returns 3.
 
