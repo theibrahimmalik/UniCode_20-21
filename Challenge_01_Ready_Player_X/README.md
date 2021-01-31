@@ -41,10 +41,17 @@ Test Cases:
 Challenge 1 
 
 Public | Encrypts Message 1
+
 Public | Encrypts Message 2
+
 2 Pts | Can encrypt messages in lower case
+
 2 Pts | Can encrypt messages in mixed case
+
 2 Pts | Can reverse itself.
+
 3 Pts | Handles Fragment 1
+
 3 Pts | Handles Fragment 2
+
 3 Pts | Handles Fragment 3
