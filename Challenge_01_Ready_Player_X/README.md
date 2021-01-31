@@ -36,9 +36,9 @@ Fragment 3:
 
 
 
-Test Cases:
+ <ins>Test Cases (Challenge 1):</ins>
 
-Challenge 1 
+
 
 Public | Encrypts Message 1
 
