@@ -23,3 +23,9 @@ For example, the strings CAT and SAD are adjacent as C -> D, A -> A and T -> S.
 
 
 You can assume both the key and token contain only uppercase letters.
+
+
+`("CAT", "SAD"), True)`
+
+
+`("FAT", "SAD"), False)`
