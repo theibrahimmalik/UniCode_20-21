@@ -50,7 +50,7 @@
 3        | Snowcode       | Dec 21st - Jan 4th  | :white_check_mark:  
 4        | Attack Cleanup | Jan 4th - Jan 18th  | :white_check_mark:  
 5        | Fraud Alert    | Jan 18th - Feb 1st  | :white_check_mark:  
-6        | TBC            | Feb 1st - Feb 15th  |                     
+6        | Strike         | Feb 1st - Feb 15th  |                     
 7        | TBC            | Feb 15th - Mar 1st  |                     
 8        | TBC            | Mar 1st - Mar 15th  |                     
 9        | TBC            | Mar 15th - Mar 29th |                     
