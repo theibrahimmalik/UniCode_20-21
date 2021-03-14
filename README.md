@@ -50,9 +50,9 @@
 3        | Snowcode         | Dec 21st - Jan 4th  | :white_check_mark:  
 4        | Attack Cleanup   | Jan 4th - Jan 18th  | :white_check_mark:  
 5        | Fraud Alert      | Jan 18th - Feb 1st  | :white_check_mark:  
-6        | Strike           | Feb 1st - Feb 15th  |                     
-7        | Crack The Code   | Feb 15th - Mar 1st  |                     
-8        | Alaric's Treasure| Mar 1st - Mar 15th  |                     
+6        | Strike           | Feb 1st - Feb 15th  | :white_check_mark:                   
+7        | Crack The Code   | Feb 15th - Mar 1st  | :white_check_mark:                 
+8        | Alaric's Treasure| Mar 1st - Mar 15th  |       
 9        | The Heist        | Mar 15th - Mar 29th |                     
 10       | TBC              | Mar 29th - Apr 12th |                     
 11       | TBC              | Apr 12th - Apr 26th |                     
